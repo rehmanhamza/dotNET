@@ -1,2 +1,2 @@
 # dotNET
-Repo related to practicing problems and learning material to .NET framework and C#.
+Repo related to practice problems and learning material for .NET framework and C#.
