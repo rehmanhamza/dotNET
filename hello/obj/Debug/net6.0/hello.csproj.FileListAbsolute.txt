@@ -1,0 +1,15 @@
+/home/hamza/Desktop/dotNET/hello/bin/Debug/net6.0/hello
+/home/hamza/Desktop/dotNET/hello/bin/Debug/net6.0/hello.deps.json
+/home/hamza/Desktop/dotNET/hello/bin/Debug/net6.0/hello.runtimeconfig.json
+/home/hamza/Desktop/dotNET/hello/bin/Debug/net6.0/hello.dll
+/home/hamza/Desktop/dotNET/hello/bin/Debug/net6.0/hello.pdb
+/home/hamza/Desktop/dotNET/hello/obj/Debug/net6.0/hello.csproj.AssemblyReference.cache
+/home/hamza/Desktop/dotNET/hello/obj/Debug/net6.0/hello.GeneratedMSBuildEditorConfig.editorconfig
+/home/hamza/Desktop/dotNET/hello/obj/Debug/net6.0/hello.AssemblyInfoInputs.cache
+/home/hamza/Desktop/dotNET/hello/obj/Debug/net6.0/hello.AssemblyInfo.cs
+/home/hamza/Desktop/dotNET/hello/obj/Debug/net6.0/hello.csproj.CoreCompileInputs.cache
+/home/hamza/Desktop/dotNET/hello/obj/Debug/net6.0/hello.dll
+/home/hamza/Desktop/dotNET/hello/obj/Debug/net6.0/refint/hello.dll
+/home/hamza/Desktop/dotNET/hello/obj/Debug/net6.0/hello.pdb
+/home/hamza/Desktop/dotNET/hello/obj/Debug/net6.0/hello.genruntimeconfig.cache
+/home/hamza/Desktop/dotNET/hello/obj/Debug/net6.0/ref/hello.dll
