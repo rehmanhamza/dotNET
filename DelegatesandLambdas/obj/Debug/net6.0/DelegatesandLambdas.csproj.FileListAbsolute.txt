@@ -1,0 +1,15 @@
+/home/hamza/Desktop/dotNET/DelegatesandLambdas/bin/Debug/net6.0/DelegatesandLambdas
+/home/hamza/Desktop/dotNET/DelegatesandLambdas/bin/Debug/net6.0/DelegatesandLambdas.deps.json
+/home/hamza/Desktop/dotNET/DelegatesandLambdas/bin/Debug/net6.0/DelegatesandLambdas.runtimeconfig.json
+/home/hamza/Desktop/dotNET/DelegatesandLambdas/bin/Debug/net6.0/DelegatesandLambdas.dll
+/home/hamza/Desktop/dotNET/DelegatesandLambdas/bin/Debug/net6.0/DelegatesandLambdas.pdb
+/home/hamza/Desktop/dotNET/DelegatesandLambdas/obj/Debug/net6.0/DelegatesandLambdas.csproj.AssemblyReference.cache
+/home/hamza/Desktop/dotNET/DelegatesandLambdas/obj/Debug/net6.0/DelegatesandLambdas.GeneratedMSBuildEditorConfig.editorconfig
+/home/hamza/Desktop/dotNET/DelegatesandLambdas/obj/Debug/net6.0/DelegatesandLambdas.AssemblyInfoInputs.cache
+/home/hamza/Desktop/dotNET/DelegatesandLambdas/obj/Debug/net6.0/DelegatesandLambdas.AssemblyInfo.cs
+/home/hamza/Desktop/dotNET/DelegatesandLambdas/obj/Debug/net6.0/DelegatesandLambdas.csproj.CoreCompileInputs.cache
+/home/hamza/Desktop/dotNET/DelegatesandLambdas/obj/Debug/net6.0/DelegatesandLambdas.dll
+/home/hamza/Desktop/dotNET/DelegatesandLambdas/obj/Debug/net6.0/refint/DelegatesandLambdas.dll
+/home/hamza/Desktop/dotNET/DelegatesandLambdas/obj/Debug/net6.0/DelegatesandLambdas.pdb
+/home/hamza/Desktop/dotNET/DelegatesandLambdas/obj/Debug/net6.0/DelegatesandLambdas.genruntimeconfig.cache
+/home/hamza/Desktop/dotNET/DelegatesandLambdas/obj/Debug/net6.0/ref/DelegatesandLambdas.dll
