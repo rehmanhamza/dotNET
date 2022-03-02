@@ -1,0 +1,15 @@
+/home/hamza/Desktop/dotNET/FuncAction/bin/Debug/net6.0/FuncAction
+/home/hamza/Desktop/dotNET/FuncAction/bin/Debug/net6.0/FuncAction.deps.json
+/home/hamza/Desktop/dotNET/FuncAction/bin/Debug/net6.0/FuncAction.runtimeconfig.json
+/home/hamza/Desktop/dotNET/FuncAction/bin/Debug/net6.0/FuncAction.dll
+/home/hamza/Desktop/dotNET/FuncAction/bin/Debug/net6.0/FuncAction.pdb
+/home/hamza/Desktop/dotNET/FuncAction/obj/Debug/net6.0/FuncAction.csproj.AssemblyReference.cache
+/home/hamza/Desktop/dotNET/FuncAction/obj/Debug/net6.0/FuncAction.GeneratedMSBuildEditorConfig.editorconfig
+/home/hamza/Desktop/dotNET/FuncAction/obj/Debug/net6.0/FuncAction.AssemblyInfoInputs.cache
+/home/hamza/Desktop/dotNET/FuncAction/obj/Debug/net6.0/FuncAction.AssemblyInfo.cs
+/home/hamza/Desktop/dotNET/FuncAction/obj/Debug/net6.0/FuncAction.csproj.CoreCompileInputs.cache
+/home/hamza/Desktop/dotNET/FuncAction/obj/Debug/net6.0/FuncAction.dll
+/home/hamza/Desktop/dotNET/FuncAction/obj/Debug/net6.0/refint/FuncAction.dll
+/home/hamza/Desktop/dotNET/FuncAction/obj/Debug/net6.0/FuncAction.pdb
+/home/hamza/Desktop/dotNET/FuncAction/obj/Debug/net6.0/FuncAction.genruntimeconfig.cache
+/home/hamza/Desktop/dotNET/FuncAction/obj/Debug/net6.0/ref/FuncAction.dll
