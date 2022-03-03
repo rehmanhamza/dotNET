@@ -1,0 +1,15 @@
+/home/hamza/Desktop/dotNET/Closure/bin/Debug/net6.0/Closure
+/home/hamza/Desktop/dotNET/Closure/bin/Debug/net6.0/Closure.deps.json
+/home/hamza/Desktop/dotNET/Closure/bin/Debug/net6.0/Closure.runtimeconfig.json
+/home/hamza/Desktop/dotNET/Closure/bin/Debug/net6.0/Closure.dll
+/home/hamza/Desktop/dotNET/Closure/bin/Debug/net6.0/Closure.pdb
+/home/hamza/Desktop/dotNET/Closure/obj/Debug/net6.0/Closure.csproj.AssemblyReference.cache
+/home/hamza/Desktop/dotNET/Closure/obj/Debug/net6.0/Closure.GeneratedMSBuildEditorConfig.editorconfig
+/home/hamza/Desktop/dotNET/Closure/obj/Debug/net6.0/Closure.AssemblyInfoInputs.cache
+/home/hamza/Desktop/dotNET/Closure/obj/Debug/net6.0/Closure.AssemblyInfo.cs
+/home/hamza/Desktop/dotNET/Closure/obj/Debug/net6.0/Closure.csproj.CoreCompileInputs.cache
+/home/hamza/Desktop/dotNET/Closure/obj/Debug/net6.0/Closure.dll
+/home/hamza/Desktop/dotNET/Closure/obj/Debug/net6.0/refint/Closure.dll
+/home/hamza/Desktop/dotNET/Closure/obj/Debug/net6.0/Closure.pdb
+/home/hamza/Desktop/dotNET/Closure/obj/Debug/net6.0/Closure.genruntimeconfig.cache
+/home/hamza/Desktop/dotNET/Closure/obj/Debug/net6.0/ref/Closure.dll
