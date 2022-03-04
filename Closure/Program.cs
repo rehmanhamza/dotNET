@@ -20,3 +20,15 @@ Func<int, int > CreateCalculator(){
     var factor = 4;
     return n => n * factor;
 }
+
+// this is what happens above, closure is implemented by
+// compiler in this way
+BestFriend CreateCalculatorInternal(){
+    return new BestFriend { factor = 42 };
+}
+
+// losely based definition of 'Closure'
+class BestFriend{
+    public int factor;
+    public int Calculator(int n) => n * factor;
+}
