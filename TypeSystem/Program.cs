@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
+using System.Text;
 
 Console.WriteLine("Hello, World!");
 
@@ -43,3 +44,34 @@ if(o.Equals(23)){
 // unboxing
 var n = (int) o;
 Console.WriteLine(n);
+
+// 5
+// static typed language and dynamic typed language
+// C# is both statically and dynamically typed language
+// dynamic 
+
+int number = 42;
+// NOT ALLOWED --> number = "FooBar";
+
+dynamic num = 42;
+// ALLOWED
+num = "FooBar";
+
+// EdgeJS --> a library that allows us to use C# in JS and vice versa
+
+// 6
+// struct or class
+
+void ftn(){
+    // struct lives on stack
+    // it lives on stack
+    var dt = new DateTime();
+    var dt1 = dt; // creating a copy
+
+    // classes lives on heap
+    // it lives on heap
+    var sb = new StringBuilder();
+    var sb1 = sb; // creating a reference, not a copy
+}
+
+// parallel and multi-threading programming uses struct more
