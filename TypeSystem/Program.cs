@@ -12,3 +12,34 @@ Int32 y = 13;
 var name = "Hamza";
 name = name.ToUpper();
 Console.WriteLine(name);
+
+// object is a class, it lives on heap because classes
+// live on the heap. This phenomenon is known as Boxing.
+
+// o is pointing on a heap to a box, in which inside there is 23.
+// inside the box is value type
+object o = 23;
+object o1 = 23;
+
+// here the references are compared, not the actual content inside
+// the box. So, it will always display Different.
+if(o == o1){
+    Console.WriteLine("Same");
+} else{
+    Console.WriteLine("Different");
+}
+
+// 2
+if(o is 23){
+    Console.WriteLine("Same");
+}
+
+// 3
+if(o.Equals(23)){
+    Console.WriteLine("Same");
+}
+
+// 4
+// unboxing
+var n = (int) o;
+Console.WriteLine(n);
