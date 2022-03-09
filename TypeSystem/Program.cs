@@ -72,6 +72,7 @@ void ftn(){
     // it lives on heap
     var sb = new StringBuilder();
     var sb1 = sb; // creating a reference, not a copy
+
 }
 
 // parallel and multi-threading programming uses struct more
