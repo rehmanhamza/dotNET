@@ -1,0 +1,15 @@
+/home/hamza/Desktop/dotNET/Async/bin/Debug/net6.0/Async
+/home/hamza/Desktop/dotNET/Async/bin/Debug/net6.0/Async.deps.json
+/home/hamza/Desktop/dotNET/Async/bin/Debug/net6.0/Async.runtimeconfig.json
+/home/hamza/Desktop/dotNET/Async/bin/Debug/net6.0/Async.dll
+/home/hamza/Desktop/dotNET/Async/bin/Debug/net6.0/Async.pdb
+/home/hamza/Desktop/dotNET/Async/obj/Debug/net6.0/Async.csproj.AssemblyReference.cache
+/home/hamza/Desktop/dotNET/Async/obj/Debug/net6.0/Async.GeneratedMSBuildEditorConfig.editorconfig
+/home/hamza/Desktop/dotNET/Async/obj/Debug/net6.0/Async.AssemblyInfoInputs.cache
+/home/hamza/Desktop/dotNET/Async/obj/Debug/net6.0/Async.AssemblyInfo.cs
+/home/hamza/Desktop/dotNET/Async/obj/Debug/net6.0/Async.csproj.CoreCompileInputs.cache
+/home/hamza/Desktop/dotNET/Async/obj/Debug/net6.0/Async.dll
+/home/hamza/Desktop/dotNET/Async/obj/Debug/net6.0/refint/Async.dll
+/home/hamza/Desktop/dotNET/Async/obj/Debug/net6.0/Async.pdb
+/home/hamza/Desktop/dotNET/Async/obj/Debug/net6.0/Async.genruntimeconfig.cache
+/home/hamza/Desktop/dotNET/Async/obj/Debug/net6.0/ref/Async.dll
