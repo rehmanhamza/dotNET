@@ -51,3 +51,15 @@ async Task ReadLine(){
 await ReadLine();
 
 Console.WriteLine("*********************************");
+
+// 4
+
+async Task<int> GetDataFromNetworkAsync(){
+    // simulate a network call
+    
+    //  this await does not block a CPU
+    await Task.Delay(150);
+    var result = 42;
+
+    return result;
+}
